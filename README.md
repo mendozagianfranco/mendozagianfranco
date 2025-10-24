@@ -43,9 +43,9 @@
 
 <p align="left">
   <a href="mailto:mendozagianfranco88@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mendozagianfranco88%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/gianfranco-mendoza-gonzales" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Gianfranco%20Mendoza-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
